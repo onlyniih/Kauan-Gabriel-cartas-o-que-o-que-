@@ -6,10 +6,9 @@
 
 body {
     background: url('kauan.png');
-  background-size:110%;
+    background-size:110%;
     font-family: Bai Jamjuree;
-  
-}
+  }
 
 #container {
     display: flex; 
