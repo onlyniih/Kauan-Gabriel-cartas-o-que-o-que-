@@ -1,23 +1,21 @@
 criaCartao(
-    'O que é o que é',
-    'Anda com os pés na cabeça?',
-    'O piolho'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'O que é o que é',
-    'Quanto mais se tira mais se aumenta?',
-    'O buraco'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'O que é o que é',
-    'Mesmo atravessando o rio não se molha?',
-    'A ponte'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'O que é o que é',
-    'Tem no meio do ovo?',
-    'o "V" '
-)
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
