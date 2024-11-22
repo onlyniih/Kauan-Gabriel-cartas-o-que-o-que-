@@ -6,12 +6,12 @@
 
 body {
     background: url('img/kauan.png');
-    background-size:110%;
+    background-size: 110%;
     font-family: Bai Jamjuree;
-  }
+}
 
 #container {
-    display: flex; 
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
@@ -66,8 +66,7 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao__conteudo__pergunta,
-.cartao__conteudo__resposta {
+.cartao__conteudo__pergunta, .cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
@@ -97,13 +96,12 @@ footer p {
 }
 
 @media (max-width: 560px) {
-    
     body {
         background: url('img/bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao {
-        flex: 1 0 calc(100% - 1rem)
+        flex: 1 0 calc(100% - 1rem);
     }
 
     .cartao__conteudo h3 {
